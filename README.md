@@ -27,7 +27,7 @@ The scripts are written using Google Apps Script, loosely based on JavaScript an
 - Document App
 - MailApp
 
-**Important Links:**
+**Important Links:**</br></br>
 Google Apps Scripts: https://developers.google.com/apps-script </br>
 Moment.js: https://momentjs.com
 
