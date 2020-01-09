@@ -27,8 +27,8 @@ The scripts are written using Google Apps Script, loosely based on JavaScript an
 - Document App
 - MailApp
 
+**Important Links:**
 Google Apps Scripts: https://developers.google.com/apps-script
-
 Moment.js: https://momentjs.com
 
 <a name= "scripts"></a>
@@ -39,4 +39,4 @@ Moment.js: https://momentjs.com
 <a name= "usage"></a>
 ## Permission for Usage
 
-Please do not use the project without asking permission. Using the project means copying or downloading files and then submitting it as your own.
+Please do not use these scripts without asking permission. Using the scripts means copying or downloading files and then submitting it as your own. If you want to use these scripts, contact me. Feel free to use the technologies and resources mentioned to create your own scripts that can perform similar work.
